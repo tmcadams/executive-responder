@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-plugin.json",
+  "name": "executive-responder",
+  "version": "1.0.0",
+  "description": "Transforms rough notes, status updates, and technical details into crisp, decision-ready executive communications.",
+  "author": {
+    "name": "Community Contributor"
+  },
+  "keywords": [
+    "executive-communication",
+    "bluf",
+    "email",
+    "leadership",
+    "management"
+  ],
+  "skills": [
+    "./skills/executive-responder"
+  ]
+}
